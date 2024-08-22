@@ -1,16 +1,15 @@
-## Hi there 👋
-
-<!--
+## Hi there👋
+![1253735](https://github.com/user-attachments/assets/a926ca6a-f6d7-4dcc-b367-3c7c384c8f05)
 **BrandonPadilla05/BrandonPadilla05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-  I’m currently working on getting my assoiates in cybersecurity and transfering to CSUSB. I am 1 year out of highschool so I do not have much knowledge in college. 
+-  I am currently learning how to code and this is my first programming class so it will likely be fairly hard for me to learn. 
+-  ![thumbnail_image0](https://github.com/user-attachments/assets/27a38573-f43e-4149-9d83-4be9521304aa)
+
+-  I like working on cars and unfortunately mine broke down just yesterday on my way home.
+-  I have an annoying little cat that I love with all my heart. I am a complete neard when it comes to certain things.
+-  One final thing about me is that I really enjoy working out and I also love the cold
+
 -->
