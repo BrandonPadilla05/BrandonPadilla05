@@ -5,6 +5,7 @@
  ![thumbnail_image0](https://github.com/user-attachments/assets/27a38573-f43e-4149-9d83-4be9521304aa)
 
 -  I like working on cars and unfortunately mine broke down just yesterday on my way home.
--  I have an annoying little cat that I love with all my heart. I am a complete neard when it comes to certain things.
+-  I have an annoying little cat that I love with all my heart who is currently 5 months old.
+-  I am a complete neard when it comes to certain things such as anime, manga, manhwa, etc.
 -  One final thing about me is that I really enjoy working out and I also love the cold
 
